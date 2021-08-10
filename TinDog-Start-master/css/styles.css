@@ -1,0 +1,64 @@
+#title {
+  background-color: #ff4c68;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: white;
+  Padding-bottom: 50px;
+  Padding-left: 16px;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.tindog-title {
+  font-size: 2rem;
+}
+
+.iphone-dog {
+  transform: rotate(25deg);
+}
+
+.navbar-decoration {
+  padding-bottom: 100px;
+}
+
+.btn-move {
+  margin-left: 16px;
+}
+
+@media only screen and (min-width: 767px) {
+  .my-row {
+    margin: 200px 200px;
+    /* text-align: center; */
+  }
+}
+
+.text-center {
+  text-align: center;
+}
+
+.selling-point {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.selling-description {
+  color: #8f8f8f;
+  padding: 10px 30px;
+}
+
+.icon-color {
+  color: #ef8172;
+  padding-bottom: 30px;
+}
+
+.fas:hover {
+  color: #ff4c68;
+}
