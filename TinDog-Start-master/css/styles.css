@@ -12,6 +12,13 @@ h1 {
   Padding-left: 16px;
 }
 
+h2 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
 .container-fluid {
   padding: 3% 15%;
 }
@@ -61,4 +68,30 @@ h1 {
 
 .fas:hover {
   color: #ff4c68;
+}
+
+/* testimonials section */
+#testimonials {
+  padding: 8% 16%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* press section */
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 4%;
+}
+
+.press-logo {
+  width: 10%;
+  margin: 16px 16px 48px;
 }
