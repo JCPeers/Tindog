@@ -1,2 +1,2 @@
 # Tindog
-Dating service for dogs
+Dating service for posh dogs
