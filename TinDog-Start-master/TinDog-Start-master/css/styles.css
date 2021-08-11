@@ -13,8 +13,7 @@ h1 {
 }
 
 h2 {
-  font-family: "Montserrat";
-  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   line-height: 1.5;
 }
@@ -51,7 +50,7 @@ h2 {
 }
 
 .selling-point {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   font-size: 1.5rem;
 }
@@ -102,4 +101,22 @@ h2 {
 /* pricing section */
 .card-price {
   color: black;
+}
+
+.pricing-plan {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  text-align: center;
+  padding: 50px;
+}
+
+.pricing-script {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #8f8f8f;
+  padding: 50px;
+}
+
+.text-month {
+  color: #F8A488;
 }
