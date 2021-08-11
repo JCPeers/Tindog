@@ -120,3 +120,11 @@ h2 {
 .text-month {
   color: #F8A488;
 }
+
+.btn-overridden {
+  color: #F8A488;
+}
+
+.btn-overridden:hover {
+  background-color: #ef8172;
+}
