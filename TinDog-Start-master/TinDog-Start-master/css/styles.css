@@ -107,7 +107,7 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   text-align: center;
-  padding: 50px;
+  padding: 100px 50px 50px;
 }
 
 .pricing-script {
@@ -127,4 +127,14 @@ h2 {
 
 .btn-overridden:hover {
   background-color: #ef8172;
+}
+
+ul {
+  color: #8f8f8f;
+  font-family: 'Montserrat-400', sans-serif;
+}
+
+.labrador-card {
+  border-color: green;
+  transform: scale(1.1)
 }
