@@ -18,6 +18,13 @@ h2 {
   line-height: 1.5;
 }
 
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+  padding: 30px 50px;
+}
+
 .container-fluid {
   padding: 3% 15%;
 }
@@ -99,6 +106,10 @@ h2 {
 }
 
 /* pricing section */
+#pricing {
+  padding: 100px;
+}
+
 .card-price {
   color: black;
 }
@@ -139,6 +150,13 @@ ul {
 }
 
 .labrador-card {
-  border-color: green;
+  border: 2px solid green;
   transform: scale(1.11)
+}
+
+.cta-bottom {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+  padding: 100px 50px 50px;
 }
